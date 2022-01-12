@@ -10,7 +10,7 @@ const HomePage = {
         <div class="grid grid-cols-3 gap-8 ">
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 1.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">
@@ -25,7 +25,7 @@ const HomePage = {
           </div>
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 2.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">
@@ -40,7 +40,7 @@ const HomePage = {
           </div>
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 3.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">
@@ -58,7 +58,7 @@ const HomePage = {
         <div class="grid grid-cols-3 gap-8 ">
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 1.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">
@@ -73,7 +73,7 @@ const HomePage = {
           </div>
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 2.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">
@@ -88,7 +88,7 @@ const HomePage = {
           </div>
           <div class="news-item border border-solid border-2 border-[#c2c2c2] p-[20px]">
             <div>
-              <img src="./img/ảnh 3.jpg" alt="">
+              <img src="http://placeimg.com/640/480/transport" alt="">
             </div>
             <div>
               <h3 class="font-bold text-[#b96442] m-4">

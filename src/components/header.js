@@ -3,7 +3,7 @@ const Header = {
         return /* html */`    <header>
         <div class="bg-[#272f54] p-4">
           <a href="#">
-            <img src="../img/Untitled-1.jpg" alt="" class="mx-auto">
+            <img src="https://picsum.photos/150/40" alt="" class="mx-auto">
           </a>
         </div>
         <div class="bg-[#cb7801] flex justify-between">
@@ -20,7 +20,7 @@ const Header = {
           </div>
         </div>
         <div class="mt-[10px] ">
-          <img src="./img/banner.jpg" alt="" width="1200px">
+        <img src="https://picsum.photos/1200/400" />
         </div>
       </header>`
     }
