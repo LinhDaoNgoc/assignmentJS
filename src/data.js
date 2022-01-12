@@ -1,40 +1,26 @@
 const data = [
     {
-        id: 1,
-        title: "Tiêu đề bài viết 1",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
+        createdAt: "2022-01-10T07:26:52.549Z",
+        title: "Vinh danh 295 sinh viên FPT Polytechnic học kỳ Spring 2018",
+        img: "http://placeimg.com/640/480/fashion",
+        desc: "Tối ngày 16/06/2018 Cao đẳng FPT Polytechnic Hà Nội đã tổchức Lễ tôn vinh Ong vàng Poly tuyên dương 295 cá nhân vàtập thể có thành tích xuất sắc trong học tập cũng như hoạt",
+        id: "1",
     },
     {
-        id: 2,
-        title: "Tiêu đề bài viết 2",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
+        createdAt: "2022-01-10T20:33:27.477Z",
+        title: "Vinh danh 295 sinh viên FPT Polytechnic học kỳ Spring 2018",
+        img: "http://placeimg.com/640/480/sports",
+        desc: "Tối ngày 16/06/2018 Cao đẳng FPT Polytechnic Hà Nội đã tổchức Lễ tôn vinh Ong vàng Poly tuyên dương 295 cá nhân vàtập thể có thành tích xuất sắc trong học tập cũng như hoạt",
+        id: "2",
     },
     {
-        id: 3,
-        title: "Tiêu đề bài viết 3",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
+        createdAt: "2022-01-11T03:36:13.571Z",
+        title: "Vinh danh 295 sinh viên FPT Polytechnic học kỳ Spring 2018",
+        img: "http://placeimg.com/640/480/transport",
+        desc: "Tối ngày 16/06/2018 Cao đẳng FPT Polytechnic Hà Nội đã tổchức Lễ tôn vinh Ong vàng Poly tuyên dương 295 cá nhân vàtập thể có thành tích xuất sắc trong học tập cũng như hoạt",
+        id: "3",
     },
-    {
-        id: 4,
-        title: "Tiêu đề bài viết 4",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
-    },
-    {
-        id: 5,
-        title: "Tiêu đề bài viết 5",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
-    },
-    {
-        id: 6,
-        title: "Tiêu đề bài viết 6",
-        img: "https://picsum.photos/400/400",
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias voluptatibus esse odit iusto adipisci id",
-    },
+
 ];
 
 export default data;
