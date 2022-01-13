@@ -10,9 +10,11 @@ const Header = {
         <ul class="flex">
           <li><a href="/" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Trang chủ</a></li>
           <li><a href="/about" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Tuyển sinh</a></li>
-          <li><a href="/news" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Chương trình đào tạo</a></li>
-          <li><a href="" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Góc sinh viên</a></li>
-          <li><a href="" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Tuyển dụng</a></li>
+          <li><a href="/admin/product/list" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Product</a></li>
+          <li><a href="/news" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">News</a></li>
+          <li><a href="/signup" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Sign in</a></li>
+          <li><a href="/signin" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Signup</a></li>
+          <li><a href="/dashboard" class="block py-3 px-4 hover:bg-indigo-600 hover:text-white">Dashboard</a></li>
         </ul>
         <div class="py-3 mr-[20px]">
           <input type="text" class="">

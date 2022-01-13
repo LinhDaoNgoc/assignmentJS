@@ -5,6 +5,11 @@ import DetailNewsPage from "./pages/detailNews";
 import HomePage from "./pages/home";
 import NewsPage from "./pages/news";
 import Footer from "./components/footer";
+import Signup from "./pages/signup";
+import Signin from "./pages/signin";
+import dashboard from "./admin/dasboar";
+import adminproductlist from "./admin/news";
+import productedit from "./admin/productedit";
 
 const router = new Navigo("/", { linksSelector: "a" });
 
@@ -27,6 +32,22 @@ router.on({
     "/news/:id": ({ data }) => {
         const { id } = data;
         print(DetailNewsPage.render(id));
+    },
+    "/admin/product/:id/edit": ({ data }) => {
+        const { id } = data;
+        print(productedit.render(id));
+    },
+    "/signup": () => {
+        print(Signup.render());
+    },
+    "/signin": () => {
+        print(Signin.render());
+    },
+    "/dashboard": () => {
+        print(dashboard.render());
+    },
+    "/admin/product/list": () => {
+        print(adminproductlist.render());
     },
 });
 router.resolve();
